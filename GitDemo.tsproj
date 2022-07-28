@@ -11,5 +11,8 @@
 		<Plc>
 			<Project File="Untitled1.xti"/>
 		</Plc>
+		<Safety>
+			<Project File="Untitled2.xti"/>
+		</Safety>
 	</Project>
 </TcSmProject>
